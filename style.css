@@ -1,0 +1,30 @@
+html,body{
+  height: 100%;
+  width : 100%;
+  background-color : 	#F4E3FF
+}
+.button{
+  padding : 20px;
+  margin : 0 3px;
+  width : 90px;
+  border : 2px solid black;
+  border-radius: 9px;
+  cursor : pointer;
+}
+
+.row{
+  margin-top: 8px;
+  margin-bottom: 2px;
+  width : 20vw;
+  display : flex;
+  align-items: center;
+  justify : space-around;
+}
+
+.input{
+  font-size: 20px;
+  margin : 0;
+  padding : 10px 1px;
+  border : 2px solid black;
+  border-radius: 5px;
+}
